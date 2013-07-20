@@ -5,6 +5,7 @@ date: 2012-09-29 19:00
 comments: true
 sharing: true
 footer: true
+description: a little bit of information about me
 ---
 <img class="right" src="/images/uploads/2008/06/pasfoto-202x300.jpg" alt="Me" />
 
